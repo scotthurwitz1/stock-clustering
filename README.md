@@ -1,5 +1,6 @@
 Stock clustering
-Project descriptionSummary:
+Project description
+Summary:
 Machine learning presentation clustering 5k stocks on 50 indicators to improve portfolio
 Cluster analysis is used as a multivariate analytical method, to identify the best stocks based on indicators to make a portfolio. Clustering also helps diversify a portfolio. I also considered high earners who show possible signs of weakness and vice versa.
 
